@@ -34,6 +34,7 @@
 img {
   width: 45%;
   height: 45%;
+  border-radius: 10px;
 }
 .bark {
   position: relative;
@@ -41,4 +42,8 @@ img {
 }
 .dogContainer {
   width: 50%;
+}
+
+.age-button {
+    position:sticky;
 }
